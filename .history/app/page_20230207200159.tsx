@@ -12,11 +12,9 @@ function HomePage() {
           </div>
 
           <div>
-            <p className="infoText">"Explain something to me"</p>
-            <p className="infoText">
-              "What is the difference between a dog and a cat?"
-            </p>
-            <p className="infoText">"What is the color of the sun?"</p>
+            <p class>"Explain something to me"</p>
+            <p class>"What is the difference between a dog and a cat?"</p>
+            <p class>"What is the color of the sun?"</p>
           </div>
         </div>
       </div>
