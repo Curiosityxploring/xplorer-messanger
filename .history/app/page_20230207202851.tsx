@@ -1,5 +1,4 @@
 import React from "react";
-import { BeakerIcon } from "@heroicons/react/24/solid";
 
 function HomePage() {
   return (
@@ -9,7 +8,7 @@ function HomePage() {
         <div>
           <div className="flex flex-col items-center justify-center mb-5">
             {/* Sun Icon */}
-            <BeakerIcon className="h-6 w-6 text-blue-500" />
+            
             <h2 className="">Examples</h2>
           </div>
 
