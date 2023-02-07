@@ -9,7 +9,7 @@ export default function RootLayout({
     <html>
       <head />
       <body>
-        <div className="flex">
+        <div>
           {/* Sidebar */}
           {/* ClientProvider - Notification */}
           <div className="bg-[#343541] flex-1"> {children}</div>
