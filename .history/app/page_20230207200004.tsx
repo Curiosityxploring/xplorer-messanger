@@ -6,16 +6,12 @@ function HomePage() {
       <h1 className="text-5xl font-bold mb-20">Xplorer Messenger</h1>
       <div>
         <div>
-          <div>
-            {/* Sun Icon */}
-            <h2>Examples</h2>
-          </div>
+            <div>
+                {/* Sun Icon */}
+                <h2>Examples</h2>
+            </div>
 
-          <div>
-            <p>"Explain something to me"</p>
-            <p>"What is the difference between a dog and a cat?"</p>
-            <p>"What is the color of the sun?"</p>
-          </div>
+            div
         </div>
       </div>
     </div>
