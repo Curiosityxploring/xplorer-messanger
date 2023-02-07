@@ -1,5 +1,5 @@
 import React from "react";
-import { BoltIcon, ExclamationTriangleIcon, SunIcon } from "@heroicons/react/24/outline";
+import { BoltIcon, SunIcon } from "@heroicons/react/24/outline";
 
 function HomePage() {
   return (
