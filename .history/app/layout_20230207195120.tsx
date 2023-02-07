@@ -9,12 +9,11 @@ export default function RootLayout({
     <html>
       <head />
       <body>
-        <div>
-          {/* Sidebar */}
-          {/* ClientProvider - Notification */}
-          <div> {children}</div>
+        {children}<div>
+          <div></div>
         </div>
-      </body>
+        
+        </body>
     </html>
   );
 }

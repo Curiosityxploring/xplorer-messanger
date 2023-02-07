@@ -10,8 +10,7 @@ export default function RootLayout({
       <head />
       <body>
         <div>
-          {/* Sidebar */}
-          {/* ClientProvider - Notification */}
+          
           <div> {children}</div>
         </div>
       </body>
