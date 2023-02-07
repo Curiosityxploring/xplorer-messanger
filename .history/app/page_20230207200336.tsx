@@ -6,7 +6,7 @@ function HomePage() {
       <h1 className="text-5xl font-bold mb-20">Xplorer Messenger</h1>
       <div>
         <div>
-          <div className="flex flex-col items-center justify-center mb-5">
+          <div className="flex flex-col items-center justify-center">
             {/* Sun Icon */}
             <h2 className="">Examples</h2>
           </div>
