@@ -25,7 +25,7 @@ function HomePage() {
           <div className="flex flex-col items-center justify-center mb-5">
             {/* Sun Icon */}
             <BoltIcon className="h-8 w-8" />
-            <h2 className="">Capabilities</h2>
+            <h2 className="">Examples</h2>
           </div>
 
           <div className="space-y-2">
