@@ -1,5 +1,4 @@
 import React from "react";
-import NewChat from "./NewChat";
 
 function Sidebar() {
   return (
@@ -7,8 +6,10 @@ function Sidebar() {
       <div className="flex-1">
         <div>
           {/* New Chat */}
-          <NewChat />
-          <div>{/* ModelSelection */}</div>
+          <NewChat
+          <div>
+            {/* ModelSelection */}
+          </div>
           {/* Map through the ChatRows */}
         </div>
       </div>
