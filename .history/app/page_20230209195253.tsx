@@ -12,7 +12,7 @@ function HomePage() {
       <div className="flex space-x-2 text-center">
         <div>
           <div className="flex flex-col items-center justify-center mb-5">
-            
+            {/* Sun Icon */}
             <SunIcon className="h-8 w-8" />
             <h2 className="">Examples</h2>
           </div>
@@ -27,7 +27,7 @@ function HomePage() {
         </div>
         <div>
           <div className="flex flex-col items-center justify-center mb-5">
-            
+            {/* Sun Icon */}
             <BoltIcon className="h-8 w-8" />
             <h2 className="">Capabilities</h2>
           </div>
