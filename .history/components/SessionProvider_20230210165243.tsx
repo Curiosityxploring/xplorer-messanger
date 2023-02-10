@@ -8,6 +8,6 @@ export function SessionProvider(){
     return (
         <Provider>
             {children}
-        </Provider>
+            </Provider>
     )
 }
