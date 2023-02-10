@@ -4,7 +4,7 @@ import Sidebar from "../components/Sidebar";
 import "../styles/globals.css";
 import { authOptions } from "../pages/api/auth/[...nextauth]";
 
-export default async function RootLayout({
+export default as function RootLayout({
   children,
 }: {
   children: React.ReactNode;
