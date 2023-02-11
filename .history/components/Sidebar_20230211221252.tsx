@@ -1,4 +1,4 @@
-import { useSession } from "next-auth/react";
+import {useSe}
 import NewChat from "./NewChat";
 
 function Sidebar() {
