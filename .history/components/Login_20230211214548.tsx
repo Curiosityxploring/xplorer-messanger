@@ -12,7 +12,7 @@ function Login() {
         alt="logo"
       />
       <button
-        onClick={() => signIn("google")}
+        onClick={() => signIn("")}
         className="text-white font-bold ttext-3xl animate-pulse"
       >
         Sign In to use ChatCPT

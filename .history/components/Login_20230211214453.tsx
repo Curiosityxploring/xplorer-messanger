@@ -11,12 +11,7 @@ function Login() {
         height={300}
         alt="logo"
       />
-      <button
-        onClick={() => signIn("google")}
-        className="text-white font-bold ttext-3xl animate-pulse"
-      >
-        Sign In to use ChatCPT
-      </button>
+      <button onClick={()=>sign} className="text-white font-bold ttext-3xl animate-pulse">Sign In to use ChatCPT</button>
     </div>
   );
 }
