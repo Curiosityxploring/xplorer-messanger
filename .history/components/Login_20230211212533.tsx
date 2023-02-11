@@ -1,6 +1,4 @@
 'use client'
-import {} from "next-auth/react"
-
 
 function Login() {
   return <div>Login</div>;
