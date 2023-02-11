@@ -11,7 +11,6 @@ function Login() {
         height={300}
         alt="logo"
       />
-      <button>Sign In to use ChatCPT</button>
     </div>
   );
 }
