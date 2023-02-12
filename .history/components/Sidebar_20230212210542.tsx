@@ -15,7 +15,7 @@ function Sidebar() {
           {/* Map through the ChatRows */}
         </div>
       </div>
-      {session && <img src={session.user?.image!} alt=""/>}
+      {session && <img src={session.user?.image!}/>}
     </div>
   );
 }
